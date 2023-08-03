@@ -1,6 +1,7 @@
 # Project1-July Telkom
 
-- made by Ibrahim Naufal Hakim
+- made by
+- by Ibrahim Naufal Hakim
 - XI - RPL 2 (17)
 
 ## About
