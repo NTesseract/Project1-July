@@ -1,0 +1,74 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background: #2f363d;
+    color: whitesmoke;
+}
+.aaa {
+    display: flex;
+    justify-content: space-between;
+    padding: 12px 36px;
+    align-items: center;
+    background-color: #1a1a1a;
+}
+.logo img {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+}
+.aab button {
+    width: 70px;
+    height: 30px;
+    background-color: #e0e0e0;
+    border: 2px solid;
+    border-radius: 15%;
+    border-color: #474747;
+}
+.top {
+    height: fit-content;
+    width: auto;
+    display: block;
+}
+.abc {
+    margin-top: 25px;
+}
+.aac p {
+    font-size: 12.5px;
+}
+.desc {
+    float: left;
+    margin-left: 20px;
+    font-size: 17.5px;
+    height: 360px;
+    width: 50%;
+    display: block;
+}
+.image {
+    float: right;
+    margin-left: 20px;
+    font-size: 20px;
+    height: 360px;
+    width: 45%;
+    display: block;
+}
+.image img {
+    width: 540px;
+    border-radius: 10px;
+    padding-left: auto;
+    padding-right: auto;
+}
+.members {
+    text-align: center;
+    display: block;
+    padding-left: auto;
+    padding-right: auto;
+}
+.members img {
+    border-radius: 50%;
+    width: 40px;
+    border: 2px solid;
+    border-color: #2F4F4F;
+    margin-right: -5px;
+}
+#home h1 {
+    text-align: center;
+}
